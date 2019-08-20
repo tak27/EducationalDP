@@ -1,6 +1,6 @@
 # Educational DP
 
-過去にあったプログラミングコンテスト、[Education DP Contest]の問題を練習がてらに解いてみました。
+These codes are solvers for the Dynamic Programming problems of [Education DP Contest], which was took place in the past.
 
 [//]: # (References)
    [Education DP Contest]: <https://atcoder.jp/contests/dp>
