@@ -1,3 +1,6 @@
 # Educational DP
 
-練習がてら、過去にあったプログラミングコンテストの問題を解いてみました。
+過去にあったプログラミングコンテスト、[Education DP Contest]の問題を練習がてらに解いてみました。
+
+[//]: # (References)
+   [Education DP Contest]: <https://atcoder.jp/contests/dp>
