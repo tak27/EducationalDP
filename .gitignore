@@ -7,3 +7,4 @@
 *.tlog
 *.obj.enc
 *.idb
+*.vcxproj.FileListAbsolute.txt
